@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="input_on_sound" id="[]yR9tu!aDz01g~40vq=" x="0" y="0"><field name="sound">DetectedSound.Loud</field><statement name="HANDLER"><block type="basic_show_icon" id="{vcV1;6h.q#MVtl!_MM6"><field name="i">IconNames.Heart</field></block></statement></block></xml>
